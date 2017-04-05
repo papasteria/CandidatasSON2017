@@ -1,0 +1,12 @@
+c:\users\dany_\documents\visual studio 2015\Projects\candidatas-library\candidatas-library\bin\Debug\candidatas-library.dll.config
+c:\users\dany_\documents\visual studio 2015\Projects\candidatas-library\candidatas-library\bin\Debug\candidatas-library.dll
+c:\users\dany_\documents\visual studio 2015\Projects\candidatas-library\candidatas-library\bin\Debug\candidatas-library.pdb
+c:\users\dany_\documents\visual studio 2015\Projects\candidatas-library\candidatas-library\bin\Debug\EntityFramework.dll
+c:\users\dany_\documents\visual studio 2015\Projects\candidatas-library\candidatas-library\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dany_\documents\visual studio 2015\Projects\candidatas-library\candidatas-library\bin\Debug\MySql.Data.dll
+c:\users\dany_\documents\visual studio 2015\Projects\candidatas-library\candidatas-library\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\dany_\documents\visual studio 2015\Projects\candidatas-library\candidatas-library\bin\Debug\EntityFramework.xml
+c:\users\dany_\documents\visual studio 2015\Projects\candidatas-library\candidatas-library\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dany_\documents\visual studio 2015\Projects\candidatas-library\candidatas-library\obj\Debug\candidatas-library.csprojResolveAssemblyReference.cache
+c:\users\dany_\documents\visual studio 2015\Projects\candidatas-library\candidatas-library\obj\Debug\candidatas-library.dll
+c:\users\dany_\documents\visual studio 2015\Projects\candidatas-library\candidatas-library\obj\Debug\candidatas-library.pdb
