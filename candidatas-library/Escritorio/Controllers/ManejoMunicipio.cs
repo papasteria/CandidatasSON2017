@@ -9,7 +9,7 @@ using candidatas_library.Model;
 
 namespace Escritorio.Controllers
 {
-    class ManejoMunicipio
+    public class ManejoMunicipio
     {
         public static List<Municipio> Buscar(string valor, Boolean Status)
         {

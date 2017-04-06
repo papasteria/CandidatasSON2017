@@ -33,9 +33,16 @@
             this.btnExit = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.dgvDatos = new System.Windows.Forms.DataGridView();
             this.txtBuscarCandidata = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.dgvDatos = new System.Windows.Forms.DataGridView();
+            this.dtAnioConvocatoria = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.sNombreCompleto = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dtFechaNacimiento = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.sDescripcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.sCorreoElectronico = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.sCurp = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.sNivelEstudios = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDatos)).BeginInit();
             this.SuspendLayout();
             // 
@@ -98,15 +105,6 @@
             this.label1.TabIndex = 16;
             this.label1.Text = "Catálogo de Candidatas";
             // 
-            // dgvDatos
-            // 
-            this.dgvDatos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvDatos.Location = new System.Drawing.Point(24, 99);
-            this.dgvDatos.Name = "dgvDatos";
-            this.dgvDatos.Size = new System.Drawing.Size(534, 226);
-            this.dgvDatos.TabIndex = 15;
-            this.dgvDatos.CellContentDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDatos_CellContentDoubleClick);
-            // 
             // txtBuscarCandidata
             // 
             this.txtBuscarCandidata.BackColor = System.Drawing.Color.OldLace;
@@ -126,19 +124,79 @@
             this.label2.TabIndex = 22;
             this.label2.Text = "Buscar Candidatas:";
             // 
+            // dgvDatos
+            // 
+            this.dgvDatos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvDatos.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.dtAnioConvocatoria,
+            this.sNombreCompleto,
+            this.dtFechaNacimiento,
+            this.sDescripcion,
+            this.sCorreoElectronico,
+            this.sCurp,
+            this.sNivelEstudios});
+            this.dgvDatos.Location = new System.Drawing.Point(24, 85);
+            this.dgvDatos.Name = "dgvDatos";
+            this.dgvDatos.RowHeadersVisible = false;
+            this.dgvDatos.Size = new System.Drawing.Size(534, 229);
+            this.dgvDatos.TabIndex = 23;
+            this.dgvDatos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDatos_CellContentClick);
+            // 
+            // dtAnioConvocatoria
+            // 
+            this.dtAnioConvocatoria.DataPropertyName = "dtAnioConvocatoria";
+            this.dtAnioConvocatoria.HeaderText = "Comvocatoria";
+            this.dtAnioConvocatoria.Name = "dtAnioConvocatoria";
+            // 
+            // sNombreCompleto
+            // 
+            this.sNombreCompleto.DataPropertyName = "sNombreCompleto";
+            this.sNombreCompleto.HeaderText = "Nombre Completo";
+            this.sNombreCompleto.Name = "sNombreCompleto";
+            // 
+            // dtFechaNacimiento
+            // 
+            this.dtFechaNacimiento.DataPropertyName = "dtFechaNacimiento";
+            this.dtFechaNacimiento.HeaderText = "Fecha Nacimiento";
+            this.dtFechaNacimiento.Name = "dtFechaNacimiento";
+            // 
+            // sDescripcion
+            // 
+            this.sDescripcion.DataPropertyName = "sDescripcion";
+            this.sDescripcion.HeaderText = "Descripcion";
+            this.sDescripcion.Name = "sDescripcion";
+            // 
+            // sCorreoElectronico
+            // 
+            this.sCorreoElectronico.DataPropertyName = "sCorreoElectronico";
+            this.sCorreoElectronico.HeaderText = "Correo";
+            this.sCorreoElectronico.Name = "sCorreoElectronico";
+            // 
+            // sCurp
+            // 
+            this.sCurp.DataPropertyName = "sCurp";
+            this.sCurp.HeaderText = "CURP";
+            this.sCurp.Name = "sCurp";
+            // 
+            // sNivelEstudios
+            // 
+            this.sNivelEstudios.DataPropertyName = "sNivelEstudios";
+            this.sNivelEstudios.HeaderText = "Nivel Estudios";
+            this.sNivelEstudios.Name = "sNivelEstudios";
+            // 
             // FrmCandidatas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PeachPuff;
             this.ClientSize = new System.Drawing.Size(585, 373);
+            this.Controls.Add(this.dgvDatos);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.chkStatus);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.dgvDatos);
             this.Controls.Add(this.txtBuscarCandidata);
             this.Name = "FrmCandidatas";
             this.Text = "Catálogo de Candidatas";
@@ -156,8 +214,15 @@
         private System.Windows.Forms.Button btnExit;
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.DataGridView dgvDatos;
         private System.Windows.Forms.TextBox txtBuscarCandidata;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.DataGridView dgvDatos;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dtAnioConvocatoria;
+        private System.Windows.Forms.DataGridViewTextBoxColumn sNombreCompleto;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dtFechaNacimiento;
+        private System.Windows.Forms.DataGridViewTextBoxColumn sDescripcion;
+        private System.Windows.Forms.DataGridViewTextBoxColumn sCorreoElectronico;
+        private System.Windows.Forms.DataGridViewTextBoxColumn sCurp;
+        private System.Windows.Forms.DataGridViewTextBoxColumn sNivelEstudios;
     }
 }

@@ -37,7 +37,6 @@
             this.txtDescripcion = new System.Windows.Forms.TextBox();
             this.txtCorreo = new System.Windows.Forms.TextBox();
             this.txtCurp = new System.Windows.Forms.TextBox();
-            this.dtpFechaNac = new System.Windows.Forms.DateTimePicker();
             this.txtNombre = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
@@ -50,10 +49,11 @@
             this.label1 = new System.Windows.Forms.Label();
             this.pbxFoto = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.dtpAño = new System.Windows.Forms.DateTimePicker();
             this.cmbCamara = new System.Windows.Forms.ComboBox();
             this.ErrorProvider = new System.Windows.Forms.ErrorProvider(this.components);
             this.txtEstudios = new System.Windows.Forms.TextBox();
+            this.dtpFechaNac = new System.Windows.Forms.DateTimePicker();
+            this.dtpAño = new System.Windows.Forms.DateTimePicker();
             ((System.ComponentModel.ISupportInitialize)(this.pbxFoto)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ErrorProvider)).BeginInit();
@@ -143,16 +143,6 @@
             this.txtCurp.Size = new System.Drawing.Size(265, 20);
             this.txtCurp.TabIndex = 60;
             this.txtCurp.TextChanged += new System.EventHandler(this.txtCurp_TextChanged);
-            // 
-            // dtpFechaNac
-            // 
-            this.dtpFechaNac.CalendarForeColor = System.Drawing.Color.Black;
-            this.dtpFechaNac.CalendarMonthBackground = System.Drawing.Color.OldLace;
-            this.dtpFechaNac.Location = new System.Drawing.Point(180, 150);
-            this.dtpFechaNac.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.dtpFechaNac.Name = "dtpFechaNac";
-            this.dtpFechaNac.Size = new System.Drawing.Size(111, 20);
-            this.dtpFechaNac.TabIndex = 59;
             // 
             // txtNombre
             // 
@@ -272,13 +262,6 @@
             this.pictureBox2.TabIndex = 69;
             this.pictureBox2.TabStop = false;
             // 
-            // dtpAño
-            // 
-            this.dtpAño.Location = new System.Drawing.Point(180, 70);
-            this.dtpAño.Name = "dtpAño";
-            this.dtpAño.Size = new System.Drawing.Size(111, 20);
-            this.dtpAño.TabIndex = 71;
-            // 
             // cmbCamara
             // 
             this.cmbCamara.FormattingEnabled = true;
@@ -301,15 +284,30 @@
             this.txtEstudios.TabIndex = 73;
             this.txtEstudios.TextChanged += new System.EventHandler(this.txtEstudios_TextChanged);
             // 
+            // dtpFechaNac
+            // 
+            this.dtpFechaNac.Location = new System.Drawing.Point(180, 146);
+            this.dtpFechaNac.Name = "dtpFechaNac";
+            this.dtpFechaNac.Size = new System.Drawing.Size(265, 20);
+            this.dtpFechaNac.TabIndex = 74;
+            // 
+            // dtpAño
+            // 
+            this.dtpAño.Location = new System.Drawing.Point(179, 74);
+            this.dtpAño.Name = "dtpAño";
+            this.dtpAño.Size = new System.Drawing.Size(266, 20);
+            this.dtpAño.TabIndex = 75;
+            // 
             // FrmActualizarCandidata
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PeachPuff;
             this.ClientSize = new System.Drawing.Size(718, 427);
+            this.Controls.Add(this.dtpAño);
+            this.Controls.Add(this.dtpFechaNac);
             this.Controls.Add(this.txtEstudios);
             this.Controls.Add(this.cmbCamara);
-            this.Controls.Add(this.dtpAño);
             this.Controls.Add(this.btnCargar);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnAceptar);
@@ -319,7 +317,6 @@
             this.Controls.Add(this.txtDescripcion);
             this.Controls.Add(this.txtCorreo);
             this.Controls.Add(this.txtCurp);
-            this.Controls.Add(this.dtpFechaNac);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label8);
@@ -353,7 +350,6 @@
         private System.Windows.Forms.TextBox txtDescripcion;
         private System.Windows.Forms.TextBox txtCorreo;
         private System.Windows.Forms.TextBox txtCurp;
-        private System.Windows.Forms.DateTimePicker dtpFechaNac;
         private System.Windows.Forms.TextBox txtNombre;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
@@ -365,9 +361,10 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox2;
-        private System.Windows.Forms.DateTimePicker dtpAño;
         private System.Windows.Forms.ComboBox cmbCamara;
         private System.Windows.Forms.ErrorProvider ErrorProvider;
         private System.Windows.Forms.TextBox txtEstudios;
+        private System.Windows.Forms.DateTimePicker dtpAño;
+        private System.Windows.Forms.DateTimePicker dtpFechaNac;
     }
 }

@@ -26,7 +26,7 @@ namespace Escritorio.Views
         public Bitmap ImagenBitmap { get; set; }
 
         FrmCandidatas vMain;
-        private FrmCandidatas frmBuscarCandidata;
+        private FrmCandidatas FrmCandidatas;
         public FrmActualizarCandidata(FrmCandidatas vmain)
         {
             InitializeComponent();

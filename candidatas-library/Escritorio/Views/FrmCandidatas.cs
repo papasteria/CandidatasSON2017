@@ -32,16 +32,6 @@ namespace Escritorio.Views
             cargarCandidatas();
         }
 
-        private void dgvDatos_CellContentDoubleClick(object sender, DataGridViewCellEventArgs e)
-        {
-            if (this.dgvDatos.RowCount >= 1)
-            {
-                PKCANDIDATA = Convert.ToInt32(this.dgvDatos.CurrentRow.Cells[0].Value);
-                FrmActualizarCandidata v = new FrmActualizarCandidata(this);
-                v.ShowDialog();
-            }
-        }
-
         private void btnDelete_Click(object sender, EventArgs e)
         {
             if (this.dgvDatos.RowCount >= 1)
@@ -73,6 +63,16 @@ namespace Escritorio.Views
         {
             FrmRegistroCandidata re = new FrmRegistroCandidata(this);
             re.Show();
+        }
+
+        private void dgvDatos_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (this.dgvDatos.RowCount >= 1)
+            {
+                PKCANDIDATA = Convert.ToInt32(this.dgvDatos.CurrentRow.Cells[0].Value);
+                FrmActualizarCandidata v = new FrmActualizarCandidata(this);
+                v.ShowDialog();
+            }
         }
     }
 }
