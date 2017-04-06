@@ -118,16 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="mapason" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mapason.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Logo-Miss_Universe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo-Miss_Universe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Queenpersonavatar_reina_person_2828" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Queenpersonavatar_reina_person_2828.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Logo-Miss_Universe" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Logo-Miss_Universe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="mapason" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mapason.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="convocatoria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\convocatoria.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grafica" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grafica.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sonorita" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sonorita.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="header3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\header3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ganadora" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ganadora.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="captura" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\captura.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

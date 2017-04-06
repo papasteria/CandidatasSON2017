@@ -51,7 +51,7 @@
             this.ClientSize = new System.Drawing.Size(584, 361);
             this.Controls.Add(this.crystalReportViewer1);
             this.Name = "frmRptLike";
-            this.Text = "frmRptLike";
+            this.Text = "Reporte por Like\'s";
             this.ResumeLayout(false);
 
         }

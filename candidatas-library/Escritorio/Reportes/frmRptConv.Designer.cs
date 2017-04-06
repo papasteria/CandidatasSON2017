@@ -52,7 +52,7 @@
             this.Controls.Add(this.crystalReportViewer1);
             this.Name = "frmRptConv";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frmRptConv";
+            this.Text = "Reporte por Convocatoria";
             this.ResumeLayout(false);
 
         }

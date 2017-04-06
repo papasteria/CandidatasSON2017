@@ -52,7 +52,7 @@
             this.Controls.Add(this.crystalReportViewer1);
             this.Name = "frmGanadoraMuni";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frmGanadoraMuni";
+            this.Text = "Reporte Ganadora por Municipio";
             this.ResumeLayout(false);
 
         }

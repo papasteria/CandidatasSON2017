@@ -63,6 +63,46 @@ namespace Escritorio.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap captura {
+            get {
+                object obj = ResourceManager.GetObject("captura", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap convocatoria {
+            get {
+                object obj = ResourceManager.GetObject("convocatoria", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ganadora {
+            get {
+                object obj = ResourceManager.GetObject("ganadora", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap grafica {
+            get {
+                object obj = ResourceManager.GetObject("grafica", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap header3 {
             get {
                 object obj = ResourceManager.GetObject("header3", resourceCulture);
@@ -96,6 +136,16 @@ namespace Escritorio.Properties {
         internal static System.Drawing.Bitmap Queenpersonavatar_reina_person_2828 {
             get {
                 object obj = ResourceManager.GetObject("Queenpersonavatar_reina_person_2828", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sonorita {
+            get {
+                object obj = ResourceManager.GetObject("sonorita", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
