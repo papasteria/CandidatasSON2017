@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    List<SiCandi_Library.Modelo.Candidata> DatosC = ViewBag.DatosC;
+    List<SiCandi_Library.Modelo.Municipio> DatosM = ViewBag.DatosM;
+    string word = ViewBag.word;
+}
+
+<br />
+
+<div class="row">
+    <div class="col s12">
+        @using (Html.BeginForm("Index","Candidata",FormMethod.Get))
+        {
+            <div class="input-field col s4">
+                <input id="name" type="text" name="word" placeholder="Buscar por Nombre" value="@word"/><br />
+            </div>
+            <div class="col">
+                <select id="municipios" name="m">c
+                    <option value="" disabled selected>Elija un municipio</option>
+                    @foreach (SiCandi_Library.Modelo.Municipio item in DatosM)
+                    {
+                        <option value="@item.sNombre">@item.sNombre</option>
+                    }
+                </select>
+            </div>
+            <div class="col ">
+                <button type="submit" class="white-text waves-effect waves-light btn"><i class="material-icons">search</i></button>
+            </div>
+        }
+    </div>
+</div>
+
+<div class="row">
+    <div class="col s12">
+        @foreach (SiCandi_Library.Modelo.Candidata item in DatosC) {
+            <div class="col s4">
+                <div class="card hoverable">
+                    <div class="card-image">
+                        <img class="responsive-img"
+                             src="data:image/png;base64,@item.sFotografiaRostro" alt="@item.sNombreCompleto">
+                     
+                    </div>
+                    <div class="card-content">
+                        <p><b>Nombre: </b>@item.sNombreCompleto</p>
+                        <p><b>Estudios: </b>@item.sNivelEstudios</p>
+                        <p><b>Descripción: </b>@item.sDescripcion</p>
+                        <p><b>Fecha de Nacimiento: </b>@item.dtFechaNacimiento</p>
+                    </div>
+                    <div class="card-action">
+                        @using (Html.BeginForm("Like", "Candidata", FormMethod.Post))
+                        {
+                            <input type="hidden" name="pkCandidata" value="@item.pkCandidata" />
+                            <div class="center-align">
+                                <button type="submit" class="white-text waves-effect waves-light btn">Me Gusta</button>
+                                <h5>@item.iLike Me Gustas</h5>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+

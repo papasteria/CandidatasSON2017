@@ -1,0 +1,195 @@
+C:\Users\Francky\Source\Repos\SisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\obj\Debug\SisCandidatasWeb-2017.csprojResolveAssemblyReference.cache
+C:\Users\Francky\Source\Repos\SisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\obj\Debug\SisCandidatasWeb_2017.Migrations.inicial.resources
+C:\Users\Francky\Source\Repos\SisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\obj\Debug\SisCandidatasWeb-2017.csproj.GenerateResource.Cache
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\ApplicationInsights.config
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\csc.exe
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\vbc.exe
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasWeb-2017.dll.config
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasWeb-2017.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasWeb-2017.pdb
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\EntityFramework.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\EntityFramework.SqlServer.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.Web.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\MySql.Data.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatas-2017.exe
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Helpers.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Mvc.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Razor.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.Razor.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\AForge.Video.DirectShow.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\AForge.Video.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatas-2017.pdb
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\EntityFramework.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\EntityFramework.SqlServer.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.Web.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Razor.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.Razor.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Helpers.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Mvc.xml
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Razor.resources.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\obj\Debug\SisCandidatasWeb-2017.csprojResolveAssemblyReference.cache
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\obj\Debug\SisCandidatasWeb-2017.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\obj\Debug\SisCandidatasWeb-2017.pdb
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\ApplicationInsights.config
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\csc.exe
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\vbc.exe
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\VBCSCompiler.exe
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasWeb-2017.dll.config
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasWeb-2017.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasWeb-2017.pdb
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\EntityFramework.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\EntityFramework.SqlServer.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.Web.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\MySql.Data.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatas-2017.exe
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasClases-2017.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Helpers.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Mvc.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Razor.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.Razor.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\AForge.Video.DirectShow.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\AForge.Video.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatas-2017.pdb
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasClases-2017.pdb
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\EntityFramework.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\EntityFramework.SqlServer.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.Web.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Razor.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.Razor.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Helpers.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Mvc.xml
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Razor.resources.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\obj\Debug\SisCandidatasWeb-2017.csprojResolveAssemblyReference.cache
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\obj\Debug\SisCandidatasWeb-2017.dll
+C:\Users\Francky\Documents\GitHub\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\obj\Debug\SisCandidatasWeb-2017.pdb
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasClases-2017.dll
+C:\Users\Rabbit\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasClases-2017.pdb
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\ApplicationInsights.config
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\csc.exe
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\vbc.exe
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasWeb-2017.dll.config
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasWeb-2017.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasWeb-2017.pdb
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\EntityFramework.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\EntityFramework.SqlServer.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.Web.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\MySql.Data.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatas-2017.exe
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasClases-2017.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Helpers.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Mvc.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Razor.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\AForge.Video.DirectShow.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\AForge.Video.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatas-2017.pdb
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\SisCandidatasClases-2017.pdb
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\EntityFramework.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\EntityFramework.SqlServer.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.Web.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Razor.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Helpers.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\System.Web.Mvc.xml
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\obj\Debug\SisCandidatasWeb-2017.csprojResolveAssemblyReference.cache
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\obj\Debug\SisCandidatasWeb-2017.dll
+C:\Users\Jose Ojeda\Source\Repos\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\obj\Debug\SisCandidatasWeb-2017.pdb
