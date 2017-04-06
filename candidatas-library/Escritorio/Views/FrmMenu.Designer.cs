@@ -30,9 +30,9 @@
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.button3 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
@@ -64,6 +64,18 @@
             this.label3.TabIndex = 5;
             this.label3.Text = "Reportes";
             // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.MistyRose;
+            this.button3.BackgroundImage = global::Escritorio.Properties.Resources.header3;
+            this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button3.Location = new System.Drawing.Point(473, 32);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(149, 141);
+            this.button3.TabIndex = 4;
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -83,17 +95,6 @@
             this.label1.Size = new System.Drawing.Size(87, 23);
             this.label1.TabIndex = 2;
             this.label1.Text = "Candidata";
-            // 
-            // button3
-            // 
-            this.button3.BackColor = System.Drawing.Color.MistyRose;
-            this.button3.BackgroundImage = global::Escritorio.Properties.Resources.header3;
-            this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button3.Location = new System.Drawing.Point(473, 32);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(149, 141);
-            this.button3.TabIndex = 4;
-            this.button3.UseVisualStyleBackColor = false;
             // 
             // button2
             // 

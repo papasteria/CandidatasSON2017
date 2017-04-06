@@ -33,8 +33,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -54,6 +61,66 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportes\CandidataConvocatoria.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CandidataConvocatoria.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\CandidatasMunicipio.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CandidatasMunicipio.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\Capturadas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Capturadas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmGanadoraMuni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmGanadoraMuni.Designer.cs">
+      <DependentUpon>frmGanadoraMuni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmRptCaptura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmRptCaptura.Designer.cs">
+      <DependentUpon>frmRptCaptura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmRptConv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmRptConv.Designer.cs">
+      <DependentUpon>frmRptConv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmRptLike.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmRptLike.Designer.cs">
+      <DependentUpon>frmRptLike.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmRptMuni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmRptMuni.Designer.cs">
+      <DependentUpon>frmRptMuni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\GanadoraMunicipio.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GanadoraMunicipio.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\Likes.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Likes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Views\FrmActualizarCandidata.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -84,6 +151,12 @@
     <Compile Include="Views\FrmMenu.Designer.cs">
       <DependentUpon>FrmMenu.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\FrmMenuReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrmMenuReportes.Designer.cs">
+      <DependentUpon>FrmMenuReportes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\FrmMunicipios.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -112,6 +185,41 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Reportes\CandidataConvocatoria.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CandidataConvocatoria.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\CandidatasMunicipio.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CandidatasMunicipio.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Capturadas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Capturadas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmGanadoraMuni.resx">
+      <DependentUpon>frmGanadoraMuni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmRptCaptura.resx">
+      <DependentUpon>frmRptCaptura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmRptConv.resx">
+      <DependentUpon>frmRptConv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmRptLike.resx">
+      <DependentUpon>frmRptLike.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmRptMuni.resx">
+      <DependentUpon>frmRptMuni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\GanadoraMunicipio.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GanadoraMunicipio.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Likes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Likes.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\FrmActualizarCandidata.resx">
       <DependentUpon>FrmActualizarCandidata.cs</DependentUpon>
     </EmbeddedResource>
@@ -126,6 +234,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\FrmMenu.resx">
       <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrmMenuReportes.resx">
+      <DependentUpon>FrmMenuReportes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\FrmMunicipios.resx">
       <DependentUpon>FrmMunicipios.cs</DependentUpon>
@@ -164,6 +275,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\header3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

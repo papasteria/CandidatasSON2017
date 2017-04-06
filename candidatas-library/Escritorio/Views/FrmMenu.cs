@@ -16,5 +16,11 @@ namespace Escritorio.Views
         {
             InitializeComponent();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Views.FrmMenuReportes r = new FrmMenuReportes();
+            r.ShowDialog();
+        }
     }
 }
