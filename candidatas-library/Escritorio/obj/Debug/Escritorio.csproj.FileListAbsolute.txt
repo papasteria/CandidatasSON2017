@@ -89,3 +89,6 @@ C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\Escritorio\obj
 C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\Escritorio\obj\Debug\Escritorio.Views.FrmRegistroCandidata.resources
 C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\Escritorio\obj\Debug\Escritorio.Views.FrmRegistroMunicipio.resources
 C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\Escritorio\obj\Debug\Escritorio.csproj.GenerateResource.Cache
+C:\Users\dany_\Source\Repos\CandidatasSON2017\candidatas-library\Escritorio\bin\Debug\Escritorio.exe.config
+C:\Users\dany_\Source\Repos\CandidatasSON2017\candidatas-library\Escritorio\obj\Debug\Escritorio.exe
+C:\Users\dany_\Source\Repos\CandidatasSON2017\candidatas-library\Escritorio\obj\Debug\Escritorio.pdb

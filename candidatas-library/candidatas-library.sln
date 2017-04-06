@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "candidatas-library", "candi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escritorio", "Escritorio\Escritorio.csproj", "{4436F569-8D19-4010-BD1B-5ECC8127B304}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webcandi2017", "..\..\..\..\Desktop\SiCandi_Library\sisCandidatas2017\SisCandidatas-2017\SisCandidatasWeb-2017\Webcandi2017.csproj", "{D90970AD-FD37-490C-852D-B18DA4ED8C7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4436F569-8D19-4010-BD1B-5ECC8127B304}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4436F569-8D19-4010-BD1B-5ECC8127B304}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4436F569-8D19-4010-BD1B-5ECC8127B304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90970AD-FD37-490C-852D-B18DA4ED8C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90970AD-FD37-490C-852D-B18DA4ED8C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90970AD-FD37-490C-852D-B18DA4ED8C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90970AD-FD37-490C-852D-B18DA4ED8C7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
