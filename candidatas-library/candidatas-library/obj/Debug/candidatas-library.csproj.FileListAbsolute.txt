@@ -24,3 +24,17 @@ C:\Users\USUARIO 1\Source\Repos\CandidatasSON2017\candidatas-library\candidatas-
 C:\Users\USUARIO 1\Source\Repos\CandidatasSON2017\candidatas-library\candidatas-library\obj\Debug\candidatas-library.csproj.GenerateResource.Cache
 C:\Users\USUARIO 1\Source\Repos\CandidatasSON2017\candidatas-library\candidatas-library\obj\Debug\candidatas-library.dll
 C:\Users\USUARIO 1\Source\Repos\CandidatasSON2017\candidatas-library\candidatas-library\obj\Debug\candidatas-library.pdb
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\bin\Debug\candidatas-library.dll.config
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\bin\Debug\candidatas-library.dll
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\bin\Debug\candidatas-library.pdb
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\bin\Debug\EntityFramework.dll
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\bin\Debug\MySql.Data.dll
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\bin\Debug\EntityFramework.xml
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\obj\Debug\candidatas-library.csprojResolveAssemblyReference.cache
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\obj\Debug\candidatas_library.Migrations.entity.resources
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\obj\Debug\candidatas-library.csproj.GenerateResource.Cache
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\obj\Debug\candidatas-library.dll
+C:\Users\dany_\Source\Repos\CandidatasSON20172\candidatas-library\candidatas-library\obj\Debug\candidatas-library.pdb

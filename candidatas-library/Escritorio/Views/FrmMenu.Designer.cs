@@ -33,8 +33,8 @@
             this.button3 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnMunicipio = new System.Windows.Forms.Button();
+            this.btnCandidatas = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -44,8 +44,8 @@
             this.groupBox1.Controls.Add(this.button3);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Controls.Add(this.button2);
-            this.groupBox1.Controls.Add(this.button1);
+            this.groupBox1.Controls.Add(this.btnMunicipio);
+            this.groupBox1.Controls.Add(this.btnCandidatas);
             this.groupBox1.Font = new System.Drawing.Font("Arial Narrow", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(21, 23);
             this.groupBox1.Name = "groupBox1";
@@ -96,28 +96,30 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "Candidata";
             // 
-            // button2
+            // btnMunicipio
             // 
-            this.button2.BackColor = System.Drawing.Color.MistyRose;
-            this.button2.BackgroundImage = global::Escritorio.Properties.Resources.mapason;
-            this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button2.Location = new System.Drawing.Point(278, 32);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(149, 141);
-            this.button2.TabIndex = 1;
-            this.button2.UseVisualStyleBackColor = false;
+            this.btnMunicipio.BackColor = System.Drawing.Color.MistyRose;
+            this.btnMunicipio.BackgroundImage = global::Escritorio.Properties.Resources.mapason;
+            this.btnMunicipio.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnMunicipio.Location = new System.Drawing.Point(278, 32);
+            this.btnMunicipio.Name = "btnMunicipio";
+            this.btnMunicipio.Size = new System.Drawing.Size(149, 141);
+            this.btnMunicipio.TabIndex = 1;
+            this.btnMunicipio.UseVisualStyleBackColor = false;
+            this.btnMunicipio.Click += new System.EventHandler(this.btnMunicipio_Click);
             // 
-            // button1
+            // btnCandidatas
             // 
-            this.button1.BackColor = System.Drawing.Color.MistyRose;
-            this.button1.BackgroundImage = global::Escritorio.Properties.Resources.Queenpersonavatar_reina_person_2828;
-            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button1.Location = new System.Drawing.Point(85, 32);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(149, 141);
-            this.button1.TabIndex = 0;
-            this.button1.UseVisualStyleBackColor = false;
+            this.btnCandidatas.BackColor = System.Drawing.Color.MistyRose;
+            this.btnCandidatas.BackgroundImage = global::Escritorio.Properties.Resources.Queenpersonavatar_reina_person_2828;
+            this.btnCandidatas.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnCandidatas.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnCandidatas.Location = new System.Drawing.Point(85, 32);
+            this.btnCandidatas.Name = "btnCandidatas";
+            this.btnCandidatas.Size = new System.Drawing.Size(149, 141);
+            this.btnCandidatas.TabIndex = 0;
+            this.btnCandidatas.UseVisualStyleBackColor = false;
+            this.btnCandidatas.Click += new System.EventHandler(this.btnCandidatas_Click);
             // 
             // FrmMenu
             // 
@@ -128,6 +130,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "FrmMenu";
             this.Text = "Menu de Categorías";
+            this.Load += new System.EventHandler(this.FrmMenu_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
@@ -141,7 +144,7 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnMunicipio;
+        private System.Windows.Forms.Button btnCandidatas;
     }
 }

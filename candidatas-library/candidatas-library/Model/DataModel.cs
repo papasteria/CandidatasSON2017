@@ -8,7 +8,7 @@ using System.Data.Entity;
 
 namespace candidatas_library.Model
 {
-    class DataModel:DbContext
+    public class DataModel:DbContext
     {
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Rol> Roles { get; set; }

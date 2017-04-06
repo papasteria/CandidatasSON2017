@@ -28,18 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button4 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.components = new System.ComponentModel.Container();
+            this.btnCargar = new System.Windows.Forms.Button();
+            this.btnCancelar = new System.Windows.Forms.Button();
+            this.btnAceptar = new System.Windows.Forms.Button();
+            this.btnCapturar = new System.Windows.Forms.Button();
+            this.cmbMunicipio = new System.Windows.Forms.ComboBox();
+            this.txtDescripcion = new System.Windows.Forms.TextBox();
+            this.txtCorreo = new System.Windows.Forms.TextBox();
+            this.txtCurp = new System.Windows.Forms.TextBox();
+            this.dtpFechaNac = new System.Windows.Forms.DateTimePicker();
+            this.txtNombre = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
@@ -49,129 +48,121 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pbxFoto = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.dtpAño = new System.Windows.Forms.DateTimePicker();
+            this.cmbCamara = new System.Windows.Forms.ComboBox();
+            this.ErrorProvider = new System.Windows.Forms.ErrorProvider(this.components);
+            this.txtEstudios = new System.Windows.Forms.TextBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pbxFoto)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ErrorProvider)).BeginInit();
             this.SuspendLayout();
             // 
-            // button4
+            // btnCargar
             // 
-            this.button4.BackColor = System.Drawing.Color.MistyRose;
-            this.button4.Font = new System.Drawing.Font("Arial Narrow", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(601, 287);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(93, 45);
-            this.button4.TabIndex = 70;
-            this.button4.Text = "Cargar Fotografía";
-            this.button4.UseVisualStyleBackColor = false;
+            this.btnCargar.BackColor = System.Drawing.Color.MistyRose;
+            this.btnCargar.Font = new System.Drawing.Font("Arial Narrow", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCargar.Location = new System.Drawing.Point(601, 287);
+            this.btnCargar.Name = "btnCargar";
+            this.btnCargar.Size = new System.Drawing.Size(93, 45);
+            this.btnCargar.TabIndex = 70;
+            this.btnCargar.Text = "Cargar Fotografía";
+            this.btnCargar.UseVisualStyleBackColor = false;
             // 
-            // button3
+            // btnCancelar
             // 
-            this.button3.BackColor = System.Drawing.Color.MistyRose;
-            this.button3.Font = new System.Drawing.Font("Arial Narrow", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(601, 391);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(93, 23);
-            this.button3.TabIndex = 68;
-            this.button3.Text = "Cancelar";
-            this.button3.UseVisualStyleBackColor = false;
+            this.btnCancelar.BackColor = System.Drawing.Color.MistyRose;
+            this.btnCancelar.Font = new System.Drawing.Font("Arial Narrow", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCancelar.Location = new System.Drawing.Point(601, 391);
+            this.btnCancelar.Name = "btnCancelar";
+            this.btnCancelar.Size = new System.Drawing.Size(93, 23);
+            this.btnCancelar.TabIndex = 68;
+            this.btnCancelar.Text = "Cancelar";
+            this.btnCancelar.UseVisualStyleBackColor = false;
             // 
-            // button2
+            // btnAceptar
             // 
-            this.button2.BackColor = System.Drawing.Color.MistyRose;
-            this.button2.Font = new System.Drawing.Font("Arial Narrow", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(489, 391);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(94, 23);
-            this.button2.TabIndex = 67;
-            this.button2.Text = "Aceptar";
-            this.button2.UseVisualStyleBackColor = false;
+            this.btnAceptar.BackColor = System.Drawing.Color.MistyRose;
+            this.btnAceptar.Font = new System.Drawing.Font("Arial Narrow", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAceptar.Location = new System.Drawing.Point(489, 391);
+            this.btnAceptar.Name = "btnAceptar";
+            this.btnAceptar.Size = new System.Drawing.Size(94, 23);
+            this.btnAceptar.TabIndex = 67;
+            this.btnAceptar.Text = "Aceptar";
+            this.btnAceptar.UseVisualStyleBackColor = false;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
-            // button1
+            // btnCapturar
             // 
-            this.button1.BackColor = System.Drawing.Color.MistyRose;
-            this.button1.Font = new System.Drawing.Font("Arial Narrow", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(490, 287);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(93, 45);
-            this.button1.TabIndex = 66;
-            this.button1.Text = "Capturar Fotografía";
-            this.button1.UseVisualStyleBackColor = false;
+            this.btnCapturar.BackColor = System.Drawing.Color.MistyRose;
+            this.btnCapturar.Font = new System.Drawing.Font("Arial Narrow", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCapturar.Location = new System.Drawing.Point(490, 287);
+            this.btnCapturar.Name = "btnCapturar";
+            this.btnCapturar.Size = new System.Drawing.Size(93, 45);
+            this.btnCapturar.TabIndex = 66;
+            this.btnCapturar.Text = "Capturar Fotografía";
+            this.btnCapturar.UseVisualStyleBackColor = false;
+            this.btnCapturar.Click += new System.EventHandler(this.btnCapturar_Click);
             // 
-            // comboBox2
+            // cmbMunicipio
             // 
-            this.comboBox2.BackColor = System.Drawing.Color.OldLace;
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(180, 298);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(265, 21);
-            this.comboBox2.TabIndex = 64;
+            this.cmbMunicipio.BackColor = System.Drawing.Color.OldLace;
+            this.cmbMunicipio.FormattingEnabled = true;
+            this.cmbMunicipio.Location = new System.Drawing.Point(180, 298);
+            this.cmbMunicipio.Name = "cmbMunicipio";
+            this.cmbMunicipio.Size = new System.Drawing.Size(265, 21);
+            this.cmbMunicipio.TabIndex = 64;
             // 
-            // comboBox1
+            // txtDescripcion
             // 
-            this.comboBox1.BackColor = System.Drawing.Color.OldLace;
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(180, 262);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(265, 21);
-            this.comboBox1.TabIndex = 63;
+            this.txtDescripcion.BackColor = System.Drawing.Color.OldLace;
+            this.txtDescripcion.Location = new System.Drawing.Point(180, 348);
+            this.txtDescripcion.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtDescripcion.Multiline = true;
+            this.txtDescripcion.Name = "txtDescripcion";
+            this.txtDescripcion.Size = new System.Drawing.Size(265, 66);
+            this.txtDescripcion.TabIndex = 62;
             // 
-            // textBox5
+            // txtCorreo
             // 
-            this.textBox5.BackColor = System.Drawing.Color.OldLace;
-            this.textBox5.Location = new System.Drawing.Point(180, 348);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox5.Multiline = true;
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(265, 66);
-            this.textBox5.TabIndex = 62;
+            this.txtCorreo.BackColor = System.Drawing.Color.OldLace;
+            this.txtCorreo.Location = new System.Drawing.Point(180, 225);
+            this.txtCorreo.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtCorreo.Name = "txtCorreo";
+            this.txtCorreo.Size = new System.Drawing.Size(265, 20);
+            this.txtCorreo.TabIndex = 61;
+            this.txtCorreo.TextChanged += new System.EventHandler(this.txtCorreo_TextChanged);
             // 
-            // textBox4
+            // txtCurp
             // 
-            this.textBox4.BackColor = System.Drawing.Color.OldLace;
-            this.textBox4.Location = new System.Drawing.Point(180, 225);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(265, 20);
-            this.textBox4.TabIndex = 61;
+            this.txtCurp.BackColor = System.Drawing.Color.OldLace;
+            this.txtCurp.Location = new System.Drawing.Point(180, 188);
+            this.txtCurp.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtCurp.Name = "txtCurp";
+            this.txtCurp.Size = new System.Drawing.Size(265, 20);
+            this.txtCurp.TabIndex = 60;
+            this.txtCurp.TextChanged += new System.EventHandler(this.txtCurp_TextChanged);
             // 
-            // textBox3
+            // dtpFechaNac
             // 
-            this.textBox3.BackColor = System.Drawing.Color.OldLace;
-            this.textBox3.Location = new System.Drawing.Point(180, 188);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(265, 20);
-            this.textBox3.TabIndex = 60;
+            this.dtpFechaNac.CalendarForeColor = System.Drawing.Color.Black;
+            this.dtpFechaNac.CalendarMonthBackground = System.Drawing.Color.OldLace;
+            this.dtpFechaNac.Location = new System.Drawing.Point(180, 150);
+            this.dtpFechaNac.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.dtpFechaNac.Name = "dtpFechaNac";
+            this.dtpFechaNac.Size = new System.Drawing.Size(111, 20);
+            this.dtpFechaNac.TabIndex = 59;
             // 
-            // dateTimePicker1
+            // txtNombre
             // 
-            this.dateTimePicker1.CalendarForeColor = System.Drawing.Color.Black;
-            this.dateTimePicker1.CalendarMonthBackground = System.Drawing.Color.OldLace;
-            this.dateTimePicker1.Location = new System.Drawing.Point(180, 150);
-            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(111, 20);
-            this.dateTimePicker1.TabIndex = 59;
-            // 
-            // textBox2
-            // 
-            this.textBox2.BackColor = System.Drawing.Color.OldLace;
-            this.textBox2.Location = new System.Drawing.Point(180, 109);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(265, 20);
-            this.textBox2.TabIndex = 58;
-            // 
-            // textBox1
-            // 
-            this.textBox1.BackColor = System.Drawing.Color.OldLace;
-            this.textBox1.Location = new System.Drawing.Point(180, 70);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(131, 20);
-            this.textBox1.TabIndex = 57;
+            this.txtNombre.BackColor = System.Drawing.Color.OldLace;
+            this.txtNombre.Location = new System.Drawing.Point(180, 109);
+            this.txtNombre.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtNombre.Name = "txtNombre";
+            this.txtNombre.Size = new System.Drawing.Size(265, 20);
+            this.txtNombre.TabIndex = 58;
+            this.txtNombre.TextChanged += new System.EventHandler(this.txtNombre_TextChanged);
             // 
             // label9
             // 
@@ -263,13 +254,13 @@
             this.label1.TabIndex = 48;
             this.label1.Text = "Actualizar  Datos de Candidata:";
             // 
-            // pictureBox1
+            // pbxFoto
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(489, 70);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(205, 203);
-            this.pictureBox1.TabIndex = 65;
-            this.pictureBox1.TabStop = false;
+            this.pbxFoto.Location = new System.Drawing.Point(489, 70);
+            this.pbxFoto.Name = "pbxFoto";
+            this.pbxFoto.Size = new System.Drawing.Size(205, 203);
+            this.pbxFoto.TabIndex = 65;
+            this.pbxFoto.TabStop = false;
             // 
             // pictureBox2
             // 
@@ -281,25 +272,55 @@
             this.pictureBox2.TabIndex = 69;
             this.pictureBox2.TabStop = false;
             // 
+            // dtpAño
+            // 
+            this.dtpAño.Location = new System.Drawing.Point(180, 70);
+            this.dtpAño.Name = "dtpAño";
+            this.dtpAño.Size = new System.Drawing.Size(111, 20);
+            this.dtpAño.TabIndex = 71;
+            // 
+            // cmbCamara
+            // 
+            this.cmbCamara.FormattingEnabled = true;
+            this.cmbCamara.Location = new System.Drawing.Point(489, 339);
+            this.cmbCamara.Name = "cmbCamara";
+            this.cmbCamara.Size = new System.Drawing.Size(205, 21);
+            this.cmbCamara.TabIndex = 72;
+            // 
+            // ErrorProvider
+            // 
+            this.ErrorProvider.ContainerControl = this;
+            // 
+            // txtEstudios
+            // 
+            this.txtEstudios.BackColor = System.Drawing.Color.OldLace;
+            this.txtEstudios.Location = new System.Drawing.Point(180, 264);
+            this.txtEstudios.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtEstudios.Name = "txtEstudios";
+            this.txtEstudios.Size = new System.Drawing.Size(265, 20);
+            this.txtEstudios.TabIndex = 73;
+            this.txtEstudios.TextChanged += new System.EventHandler(this.txtEstudios_TextChanged);
+            // 
             // FrmActualizarCandidata
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PeachPuff;
             this.ClientSize = new System.Drawing.Size(718, 427);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.comboBox2);
-            this.Controls.Add(this.comboBox1);
-            this.Controls.Add(this.textBox5);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.dateTimePicker1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtEstudios);
+            this.Controls.Add(this.cmbCamara);
+            this.Controls.Add(this.dtpAño);
+            this.Controls.Add(this.btnCargar);
+            this.Controls.Add(this.btnCancelar);
+            this.Controls.Add(this.btnAceptar);
+            this.Controls.Add(this.btnCapturar);
+            this.Controls.Add(this.pbxFoto);
+            this.Controls.Add(this.cmbMunicipio);
+            this.Controls.Add(this.txtDescripcion);
+            this.Controls.Add(this.txtCorreo);
+            this.Controls.Add(this.txtCurp);
+            this.Controls.Add(this.dtpFechaNac);
+            this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
@@ -312,8 +333,10 @@
             this.Controls.Add(this.pictureBox2);
             this.Name = "FrmActualizarCandidata";
             this.Text = "Actualizar Registro de Candidata";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.Load += new System.EventHandler(this.FrmActualizarCandidata_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pbxFoto)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ErrorProvider)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -321,19 +344,17 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Button btnCargar;
+        private System.Windows.Forms.Button btnCancelar;
+        private System.Windows.Forms.Button btnAceptar;
+        private System.Windows.Forms.Button btnCapturar;
+        private System.Windows.Forms.PictureBox pbxFoto;
+        private System.Windows.Forms.ComboBox cmbMunicipio;
+        private System.Windows.Forms.TextBox txtDescripcion;
+        private System.Windows.Forms.TextBox txtCorreo;
+        private System.Windows.Forms.TextBox txtCurp;
+        private System.Windows.Forms.DateTimePicker dtpFechaNac;
+        private System.Windows.Forms.TextBox txtNombre;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label7;
@@ -344,5 +365,9 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.DateTimePicker dtpAño;
+        private System.Windows.Forms.ComboBox cmbCamara;
+        private System.Windows.Forms.ErrorProvider ErrorProvider;
+        private System.Windows.Forms.TextBox txtEstudios;
     }
 }
